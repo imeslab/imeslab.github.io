@@ -14,11 +14,11 @@ author_profile: true
 - **NVIDIA 系列**
   - Jetson Nano（共 2 片）
   - Jetson Orin Nano / Orin Super（共 5 片，可支援 NVIDIA Isaac）
-    ![Jetson Orin Nano](imslab.github.io/assets/images/image-20250327114639093.png)
+    ![Jetson Orin Nano](/assets/images/image-20250327114639093.png)
   - Jetson Orin AGX（共 5 片，可支援 NVIDIA Isaac）
-    ![Jetson Orin AGX](imslab.github.io/assets/images/image-20250327113619620.png)
+    ![Jetson Orin AGX](/assets/images/image-20250327113619620.png)
   - Jetson AGX Xavier（共 5 片）
-    ![Jetson Xavier](imslab.github.io/assets/images/image-20250327113538533.png)
+    ![Jetson Xavier](/assets/images/image-20250327113538533.png)
 - **AIR6N0-C-MB NX（搭載 Jetson Orin NX）**
   - 共 1 片
 
