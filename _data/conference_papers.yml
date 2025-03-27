@@ -1,0 +1,260 @@
+papers:
+  - id: 1
+    title: "Application of AIoT Image Sensor for Lifting Operation Safety Monitoring of Mobile Crane"
+    authors: "Wen-Der Yu, Hsien-Chou Liao, Jian-Wei Li, Zi-Yi Lim, Wen-Ta Hsiao"
+    conference: "Engineering Proceedings 2023"
+    volume: "55(1)"
+    pages: "52"
+    year: 2023
+    index: ""
+    link: "https://example.com/conference1"
+
+  - id: 2
+    title: "The Implement of Web of Things Platform with Bluetooth Low Energy Beacon"
+    authors: "Jian-Wei Li and Hong-Ming Shih"
+    conference: "1st International Workshop on Technology of AI and Wireless Advanced Networking (TAIWAN-DCC)"
+    location: "Virtual Conference"
+    year: 2021
+    index: ""
+    link: "https://example.com/conference2"
+
+  - id: 3
+    title: "An Integrated Indoor Positioning System with Web Internet of Things"
+    authors: "Jian-Wei Li, Yi-Chun Chang, Wei-Hsiang Hsu, Hong-Ming Shih"
+    conference: "8th International Congress on Advanced Applied Informatics (IIAI AAI 2019)"
+    location: "Toyama, Japan"
+    year: 2019
+    index: "EI, Scopus"
+    link: "https://example.com/conference3"
+
+  - id: 4
+    title: "Space Borrowing System based on Internet of Things Technology"
+    authors: "Jian-Wei Li, Yu-Cheng Huang, Yi-Chun Chang"
+    conference: "8th International Conference on Innovation, Communication and Engineering (ICICE)"
+    location: "Zhengzhou, China"
+    year: 2019
+    index: "EI, Scopus"
+    link: "https://example.com/conference4"
+
+  - id: 5
+    title: "Fingerprint Indoor Positioning Method with Deep Learning"
+    authors: "Jian-Wei Li*, Wei-Hsiang Hsu, Chun-Cheng Peng"
+    conference: "8th International Conference on Innovation, Communication and Engineering (ICICE)"
+    location: "Zhengzhou, China"
+    year: 2019
+    index: "EI, Scopus"
+    link: "https://example.com/conference5"
+
+  - id: 6
+    title: "Integrate non-IP Multimedia Subsystem devices in IP Multimedia Subsystem services"
+    authors: "Jian-Wei Li*, Yu-Hung Huang"
+    conference: "8th International Conference on Innovation, Communication and Engineering (ICICE)"
+    location: "Zhengzhou, China"
+    year: 2019
+    index: "EI, Scopus"
+    link: "https://example.com/conference6"
+
+  - id: 7
+    title: "Personalized Roll Call Service based on Beacon Indoor Positioning Technology for Intelligent Campus"
+    authors: "Jian-Wei Li*, Yi-Chun Chang, De-Yao Huang, Min-Xiong Xu"
+    conference: "2nd Eurasian Conference on Educational Innovation 2019"
+    pages: "101-102"
+    location: "Singapore"
+    year: 2019
+    index: "EI"
+    link: "https://example.com/conference7"
+
+  - id: 8
+    title: "OSGi-based IP Multimedia Subsystem Services Gateway"
+    authors: "Yi-Chun Chang, Jian-Wei Li*, and Jing-Hong Lv"
+    conference: "IEEE International Conference on Applied System Invention (ICASI)"
+    pages: "658-660"
+    location: "Chiba, Japan"
+    year: 2018
+    index: "Scopus, EI"
+    link: "https://example.com/conference8"
+
+  - id: 9
+    title: "A Health Management Service in Preventive Care for the Elderly"
+    authors: "Jian-Wei Li*, Chang-Ju Yang, Chia-Ching Lin, Yi-Chun Chang, De-Yao Huang, Min-Xiong Xu"
+    conference: "9th International Conference on Computer Science and its Applications (CSA 2017)"
+    pages: "8"
+    location: "Taichung City, Taiwan"
+    year: 2017
+    index: "Scopus"
+    link: "https://example.com/conference9"
+
+  - id: 10
+    title: "The Implementation of the Multimedia Content Subscription and Push Notification Mechanism Based on the IP Multimedia Subsystem"
+    authors: "Yi-Chun Chang, Jian-Wei Li* and Fu-Syuan Yang"
+    conference: "8th International Conference on Awareness Science and Technology (iCAST 2017)"
+    pages: "518-522"
+    location: "Taichung City, Taiwan"
+    year: 2017
+    index: "Scopus, EI"
+    link: "https://example.com/conference10"
+
+  - id: 11
+    title: "Multimedia Synchronization on IP Multimedia Subsystem to Support Collaborative Learning"
+    authors: "Jian-Wei Li, Yan-Shiang Jan, and Yi-Chun Chang"
+    conference: "5th IIAI International Congress on Advanced Applied Informatics (IIAI-AAI 2016)"
+    pages: "1182-1183"
+    location: "Kumamoto, Japan"
+    year: 2016
+    index: "Scopus"
+    link: "https://example.com/conference11"
+
+  - id: 12
+    title: "Integrated Visual-Perception Real-Time Monitoring System"
+    authors: "Jian-Wei Li, Fu-Syuan Yang, Yi-Chun Chang, Yen-Lun Chiu"
+    conference: "International Conference on Circuits, Systems, Signal Processing, Communications and Computers (CSSCC 2015)"
+    pages: "150-155"
+    location: "Vienna, Austria"
+    year: 2015
+    index: "Scopus, EI"
+    link: "https://example.com/conference12"
+
+  - id: 13
+    title: "The differences between self-organized group and designated group for cooperative learning"
+    authors: "Jian-Wei Li, Yao-Tien Wang and Yi-Chun Chang*"
+    conference: "7th IEEE International Conference on Ubi-Media Computing and Workshops (U-Media 2014)"
+    pages: "254-256"
+    location: "Ulaanbaatar, Mongolia"
+    year: 2014
+    index: "EI"
+    link: "https://example.com/conference13"
+
+  - id: 14
+    title: "Suspicious Vehicle Tracking Mechanism Using Large Scale Roadside-Cameras Network"
+    authors: "Yi-Chun Chang, Jian-Wei Li*, Chuan-Bi Lin and Chia-Chi Chang"
+    conference: "International Conference on Information Society (i-Society 2012)"
+    pages: "234-235"
+    location: "London, UK"
+    year: 2012
+    index: "EI"
+    link: "https://example.com/conference14"
+
+  - id: 15
+    title: "A GA-based Approach for Automatic Aggregation of Learning Community for Network Supported Cooperative Learning"
+    authors: "Jian-Wei Li, Yi-Chun Chang"
+    conference: "International Conference on Information Society (i-Society 2012)"
+    pages: "379-380"
+    location: "London, UK"
+    year: 2012
+    index: "EI"
+    link: "https://example.com/conference15"
+
+  - id: 16
+    title: "A Learning Strategy-Oriented E-Course Composition Approach"
+    authors: "Jian-Wei Li and Yi-Chun Chang"
+    conference: "International Conference on Educational Sciences and Technology (ICEST 2011)"
+    volume: "77"
+    pages: "360-366"
+    location: "Paris, France"
+    year: 2011
+    index: ""
+    link: "https://example.com/conference16"
+
+  - id: 17
+    title: "IMS Shared Access for Public Transportation Service"
+    authors: "Yi-Chun Chang and Jian-Wei Li*"
+    conference: "International Conference on e-Commerce, e-Business and e-Service (ICCBS 2011)"
+    volume: "77"
+    pages: "872-876"
+    location: "Paris, France"
+    year: 2011
+    index: ""
+    link: "https://example.com/conference17"
+
+  - id: 18
+    title: "Application of the Genetic Algorithm in Customization Personalized E-Course"
+    authors: "Yi-Chun Chang, Jian-Wei Li and Shu-Ming Hsieh"
+    conference: "International Conference of System Science and Engineering (ICSSE2010)"
+    pages: "221-226"
+    location: "Taipei, Taiwan"
+    year: 2010
+    index: ""
+    link: "https://example.com/conference18"
+
+  - id: 19
+    title: "A Context Transfer Mechanism for IEEE 802.11r in the Centralized Wireless LAN Architecture"
+    authors: "Chung-Ming Huang and Jian-Wei Li"
+    conference: "22th IEEE International Conference on Advanced Information Networking and Applications (AINA2008)"
+    pages: "257-263"
+    location: "Ginowan, Okinawa, Japan"
+    year: 2008
+    index: "EI"
+    link: "https://example.com/conference19"
+
+  - id: 20
+    title: "One-Pass Authentication and Key Agreement Procedure in IP Multimedia Subsystem for UMTS"
+    authors: "Chung-Ming Huang and Jian-Wei Li"
+    conference: "21th IEEE International Conference on Advanced Information Networking and Applications (AINA 2007)"
+    pages: "482-489"
+    location: "Niagara Falls, Ontario, Canada"
+    year: 2007
+    index: "EI"
+    link: "https://example.com/conference20"
+
+  - id: 21
+    title: "An IEEE 802.11 Fast Reassociation and Pairwise Transient Key Establishment Based on the Dynamic Cluster Method"
+    authors: "Chung-Ming Huang and Jian-Wei Li"
+    conference: "International Computer Symposium 2006 (ICS2006)"
+    volume: "2"
+    pages: "567-572"
+    location: "Taipei, Taiwan"
+    year: 2006
+    index: ""
+    link: "https://example.com/conference21"
+
+  - id: 22
+    title: "Authentication and Key Agreement Protocol for UMTS with Low Bandwidth Consumption"
+    authors: "Chung-Ming Huang and Jian-Wei Li"
+    conference: "International Conference on Advanced Information Networking and Applications (AINA2005)"
+    pages: "392-397"
+    location: "Tamkang University, Taiwan"
+    year: 2005
+    index: "EI"
+    link: "https://example.com/conference22"
+
+  - id: 23
+    title: "A Novel Mobile IP Registration Scheme for Hierarchical Mobility Management"
+    authors: "Chou-Chen Yang, Jian-Wei Li, and Ting-Yi Chang"
+    conference: "IEEE Computer Society, International Conference on Parallel Processing Workshops (ICPPW03)"
+    pages: "367-374"
+    location: "Kaohsiung, Taiwan"
+    year: 2003
+    index: "EI"
+    link: "https://example.com/conference23"
+
+  - id: 24
+    title: "An Efficient MAKEP for Wireless Network"
+    authors: "Chou-Chen Yang, Min-Shiang Hwang, Jian-Wei Li, and Ting-Yi Chang"
+    conference: "International Computer Symposium (ICS2002)"
+    volume: "2"
+    pages: "1012-1018"
+    location: "Hualien, Taiwan"
+    year: 2002
+    index: ""
+    link: "https://example.com/conference24"
+
+  - id: 25
+    title: "A Solution to Mobile IP Registration for AAA"
+    authors: "Chou-Chen Yang, Min-Shiang Hwang, Jian-Wei Li, and Ting-Yi Chang"
+    conference: "7th CDMA International Conference (CIC2002)"
+    volume: "2"
+    pages: "417-421"
+    location: "Seoul, Korea"
+    year: 2002
+    index: ""
+    link: "https://example.com/conference25"
+
+  - id: 26
+    title: "A New Authentication Scheme for Mobile IP Networks"
+    authors: "Chou-Chen Yang, Ting-Yi Chang, Jian-Wei Li, and Min-Shiang Hwang"
+    conference: "Symposium on Digital Life Technologies"
+    pages: "CD-ROM"
+    location: "Tainan, Taiwan"
+    year: 2002
+    index: ""
+    link: "https://example.com/conference26"

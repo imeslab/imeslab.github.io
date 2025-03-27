@@ -1,0 +1,81 @@
+projects:
+  - id: 1
+    name: "線上多人會議"
+    description: "此系統與 Zoom 或 Jitsi Meet 類似，已掌握技術，可客製化需求。例如：疫情期間，教師可透過課程群組進行線上教學，支援桌面分享、Google Classroom 串接、自動簽到記錄及錄影回放功能。"
+    images:
+      - "project1_1.png"
+      - "project1_2.jpg"
+      - "project1_3.jpg"
+    features:
+      - "結合 Google Classroom 進行多人會議"
+      - "支援分享螢幕、Chrome 頁面"
+      - "會議錄影並支援線上觀看與下載"
+      - "自動產生簽到記錄"
+    platform: "Chrome (PC)、Safari (Mac)"
+  
+  - id: 2
+    name: "Scan to Call"
+    description: "提供免註冊、免安裝的語音與視訊通話服務，用戶只需掃描 QR 碼，即可開啟通話。"
+    images:
+      - "project2_1.jpg"
+      - "project2_3.jpg"
+      - "project2_4.jpg"
+      - "project2_5.png"
+    features:
+      - "免註冊、免安裝，掃描 QR 碼即可通話"
+      - "支援語音、視訊通話"
+      - "可錄製拒接語音"
+      - "可自訂個人名片與聯絡方式"
+    platform: "Web 版支援語音通話，完整功能需安裝 App"
+
+  - id: 3
+    name: "多媒體串流系統"
+    description: "獨立於 YouTube API 之外的多媒體串流服務，包含伺服器、管理平台與 API，提供企業與內容創作者高效能的影音服務。"
+    images:
+      - "project3_1.jpg"
+      - "project3_2.jpg"
+    features:
+      - "自建多媒體伺服器，無需依賴 YouTube API"
+      - "提供完整的影音管理平台"
+      - "多媒體串流 API，支援不同裝置"
+    platform: "Web, iOS & Android"
+
+  - id: 4
+    name: "NB-IoT 物聯網系統"
+    description: "提供基於 BG96 晶片的 NB-IoT 物聯網解決方案，支援多種感測器並整合數據管理平台。"
+    images:
+      - "project4_1.jpg"
+      - "project4_2.jpg"
+      - "project4_3.jpg"
+    features:
+      - "支援多種感測器，實現 M2M 遠程監控與控制"
+      - "提供 MQTT2X Gateway 轉換 MQTT、HTTP、SIP 協定"
+    platform: "Web 端數據管理平台"
+
+  - id: 5
+    name: "人臉辨識模組"
+    description: "基於 Node.js 伺服器與 RESTful API 的人臉辨識系統，提供高效能識別與管理功能。"
+    images:
+      - "project5_1.jpg"
+      - "project5_2.jpg"
+      - "project5_3.jpg"
+    features:
+      - "高效能人臉辨識，支援單人、多人辨識"
+      - "RESTful API 設計，支援擴展與整合"
+      - "可擴展的工作節點叢集"
+    platform: "Web 端管理系統"
+
+  - id: 6
+    name: "快樂時光機"
+    description: "針對高齡者設計的遊戲機台，透過多媒體互動提高參與意願，並促進社會參與。"
+    images:
+      - "project6_1.jpg"
+      - "project6_2.jpg"
+      - "project6_3.jpg"
+      - "project6_4.jpg"
+      - "project6_5.jpg"
+    features:
+      - "設計針對高齡者的遊戲內容，提升參與度"
+      - "結合社會參與平台，促進社區活動"
+      - "內建多媒體播放功能，可用於宣傳與教育"
+    platform: "實體遊戲機台"

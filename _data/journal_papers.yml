@@ -1,0 +1,205 @@
+papers:
+  - id: 1
+    title: "A Personalized Learning Service Compatible with Moodle E-Learning Management System"
+    authors: "Yi-Chun Chang, Jian-Wei Li*, De-Yao Huang"
+    journal: "Applied Sciences"
+    volume: "12(7)"
+    pages: "3562"
+    year: 2022
+    index: "SCI, EI, Scopus Q2"
+    link: "https://example.com/paper1"
+
+  - id: 2
+    title: "A Health Management Service with Beacon-Based Identification for Preventive Elderly Care"
+    authors: "Jian-Wei Li, Yi-Chun Chang, De-Yao Huang, Min-Xiong Xu"
+    journal: "Journal of Information Processing Systems"
+    volume: "16(3)"
+    pages: "648-662"
+    year: 2020
+    index: "EI, Scopus Q3"
+    link: "https://example.com/paper2"
+
+  - id: 3
+    title: "Multimedia Push System Based on a Wellness Slot Machine"
+    authors: "Yi-Chun Chang, Jian-Wei Li*, Chia-Ching Lin, Fu-Syuan Yang"
+    journal: "International Journal of Embedded Systems"
+    volume: "12(3)"
+    pages: "277-285"
+    year: 2020
+    index: "EI, Scopus Q3"
+    link: "https://example.com/paper3"
+
+  - id: 4
+    title: "An IP Multimedia Subsystem Services Proxy Gateway Based on JAVA Dynamic Module System"
+    authors: "Yi-Chun Chang, Jian-Wei Li*, Jing-Hong Lv"
+    journal: "Applied Sciences"
+    volume: "8(11)"
+    pages: "2060"
+    year: 2018
+    index: "SCI, EI, Scopus Q1"
+    link: "https://example.com/paper4"
+
+  - id: 5
+    title: "Ambulance Dispatching System with Integrated Information and Communication Technologies on Cloud Environment"
+    authors: "Jian-Wei Li, Chia-Chi Chang, Yi-Chun Chang, Yung-Fa Huang"
+    journal: "International Journal of Grid and High-Performance Computing (IJGHPC)"
+    volume: "6(4)"
+    pages: "72-87"
+    year: 2014
+    index: "EI, Scopus Q3"
+    link: "https://example.com/paper5"
+
+  - id: 6
+    title: "A Secure Public Transport Multimedia on Demand System for VANET"
+    authors: "Chin-Ling Chen, Ming-Shaw Lu, Jian-Wei Li, Changqing Gong, Liang Zhao"
+    journal: "Journal of Internet Technology"
+    volume: "16(7)"
+    pages: "1177-1188"
+    year: 2015
+    index: "SCIE, EI, Scopus Q3"
+    link: "https://example.com/paper6"
+
+  - id: 7
+    title: "A Genetic Algorithm (GA)-based Personalized Learning Service in Cloud Learning Environments"
+    authors: "Yi-Chun Chang, Jian-Wei Li and Hao-Hsiang Ku"
+    journal: "IEEE Technology and Engineering Education"
+    volume: "7(2)"
+    pages: "28-32"
+    year: 2012
+    index: ""
+    link: "https://example.com/paper7"
+
+  - id: 8
+    title: "A self-adjusting e-course generation process for personalized learning"
+    authors: "Jian-Wei Li, Yi-Chun Chang, Chih-Ping Chu, and Cheng-Chang Tsai"
+    journal: "Expert Systems with Applications"
+    volume: "39(3)"
+    pages: "3223-3232"
+    year: 2012
+    index: "SCIE, EI, Scopus Q1"
+    link: "https://example.com/paper8"
+
+  - id: 9
+    title: "A Novel and Simple Statistical Fusion Method for User Authentication through Keystroke Features"
+    authors: "Pei-Cheng Cheng, Ting-Yi Chang, Cheng-Jung Tsai, Jian-Wei Li, and Chih-Sheng Wu"
+    journal: "Journal of Convergence Information Technology"
+    volume: "6(2)"
+    pages: "347-356"
+    year: 2011
+    index: "EI, Scopus"
+    link: "https://example.com/paper9"
+
+  - id: 10
+    title: "Distributed Hash Table-Based Interrogating-Call Session Control Function Network in the Internet Protocol Multimedia Subsystem for Efficient Query Services"
+    authors: "Chung-Ming Huang, Jian-Wei Li, and Chun-Ta Chen"
+    journal: "The Computer Journal"
+    volume: "53(7)"
+    pages: "918-933"
+    year: 2010
+    index: "SCIE, EI, Scopus Q2"
+    link: "https://example.com/paper10"
+
+  - id: 11
+    title: "A Cluster-Chain-based Context Transfer Mechanism for Fast Basic Service Set Transition in the Centralized Wireless LAN Architecture"
+    authors: "Chung-Ming Huang and Jian-Wei Li"
+    journal: "Wireless Communications and Mobile Computing"
+    volume: "9(10)"
+    pages: "1387-1401"
+    year: 2009
+    index: "SCIE, EI, Scopus Q2"
+    link: "https://example.com/paper11"
+
+  - id: 12
+    title: "Reducing Signaling Traffic for the Authentication and Key Agreement Procedure in an IP Multimedia Subsystem"
+    authors: "Chung-Ming Huang and Jian-Wei Li"
+    journal: "Wireless Personal Communications"
+    volume: "51(1)"
+    pages: "95-107"
+    year: 2009
+    index: "SCIE, EI, Scopus Q3"
+    link: "https://example.com/paper12"
+
+  - id: 13
+    title: "Multimedia Internet Rekeying for Secure Session Mobility in Ubiquitous Mobile Networks"
+    authors: "Chung-Ming Huang, Jian-Wei Li, and I-Ting Tseng"
+    journal: "The Journal of Systems and Software"
+    volume: "82(9)"
+    pages: "1526-1539"
+    year: 2009
+    index: "SCIE, EI, Scopus Q2"
+    link: "https://example.com/paper13"
+
+  - id: 14
+    title: "Efficient and Provably Secure IP Multimedia Subsystem Authentication for UMTS"
+    authors: "Chung-Ming Huang and Jian-Wei Li"
+    journal: "The Computer Journal"
+    volume: "50(6)"
+    pages: "739-757"
+    year: 2007
+    index: "SCIE, EI, Scopus Q2"
+    link: "https://example.com/paper14"
+
+  - id: 15
+    title: "An Authentication Mechanism over the Integrated UMTS Network and WLAN Platform Using the Cross-Layer Bootstrap"
+    authors: "Chung-Ming Huang and Jian-Wei Li"
+    journal: "IET Communications (formerly IEE Proceedings Communications)"
+    volume: "1(5)"
+    pages: "866-874"
+    year: 2007
+    index: "SCIE, EI, Scopus Q2"
+    link: "https://example.com/paper15"
+
+  - id: 16
+    title: "An Accelerated IEEE 802.11 Handoff Process based on the Dynamic Cluster Chain Method"
+    authors: "Chung-Ming Huang and Jian-Wei Li"
+    journal: "Computer Communications"
+    volume: "30(6)"
+    pages: "1383-1395"
+    year: 2007
+    index: "SCIE, EI, Scopus Q1"
+    link: "https://example.com/paper16"
+
+  - id: 17
+    title: "A Solution to Mobile IP Registration for AAA"
+    authors: "Chou-Chen Yang, Min-Shiang Hwang, Jian-Wei Li, and Ting-Yi Chang"
+    journal: "Lecture Notes in Computer Science"
+    volume: "2524"
+    pages: "329-337"
+    year: 2003
+    index: "SCIE, EI, Scopus"
+    link: "https://example.com/paper17"
+
+  - id: 18
+    title: "A new mutual authentication and key exchange protocol with balanced computational power for wireless settings"
+    authors: "Chou-Chen Yang, Jian-Wei Li, and Min-Shiang Hwang"
+    journal: "European Transactions on Telecommunications"
+    volume: "15(2)"
+    pages: "91–99"
+    year: 2004
+    index: "SCIE, EI, Scopus Q2"
+    link: "https://example.com/paper18"
+
+  - id: 19
+    title: "Security Enhancement for Protecting Password Transmission"
+    authors: "Chou-Chen Yang, Ting-Yi Chang, Jian-Wei Li, and Min-Shiang Hwang"
+    journal: "IEICE Transactions on Communications"
+    volume: "E86-B(7)"
+    pages: "2178-2181"
+    year: 2003
+    index: "SCI, SCIE, EI, Scopus"
+    link: "https://example.com/paper19"
+
+  - id: 20
+    title: "Simple Generalized Group-oriented Cryptosystems Using ElGamal Cryptosystem"
+    authors: "Chou-Chen Yang, Ting-Yi Chang, Jian-Wei Li, and Min-Shiang Hwang"
+    journal: "International Journal of Informatica"
+    volume: "14(1)"
+    pages: "111-120"
+    year: 2003
+    index: "SCIE, EI, Scopus"
+    link: "https://example.com/paper20"
+
+
+
+
+

@@ -1,0 +1,24 @@
+info:
+  professor: "李建緯 副教授"
+  lab_name: "智慧多媒體網路暨嵌入式系統實驗室"
+  university: "雲林科技大學 資訊工程系"
+  email: "lijw@yuntech.edu.tw"
+  office: "產學大樓 AI607"
+  office_phone: "4523"
+  lab_location: "EB207"
+  lab_phone: "4599"
+
+  expertise:
+    - "嵌入式系統 (Embedded Systems)"
+    - "多媒體網路 (Multimedia Networking)"
+    - "物聯網 (Internet of Things, IoT)"
+    - "智慧運算 (Intelligent Computing)"
+    - "網路安全 (Network Security & Cybersecurity)"
+
+  research_directions:
+    - "智慧物聯網 / 智慧多媒體網路 (AIoT & MIoT)"
+    - "ROS 智慧機器人 (ROS Intelligent Robotics)"
+    - "邊緣 / 霧運算 (Edge/Fog Computing)"
+    - "人工智慧安全 (AI Security)"
+    - "網路安全 & 區塊鏈 (Network Security & Blockchain)"
+    - "車聯網安全 (Automotive Cybersecurity)"

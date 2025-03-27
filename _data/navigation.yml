@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "首頁"
+    url: "/"
+  - title: "論文發表"
+    url: "/publications/"
+  - title: "計畫執行"
+    url: "/projects_execution/"
+  - title: "專案介紹"
+    url: /projects/
+  - title: "實驗室介紹"
+    url: /lab/  
