@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-- 智慧物聯網/智慧多媒體物聯網（AIoT(AI+IoT)/MIoT(Multimedia +IoT)）
-- 邊緣與霧運算技術（Edge/Fog computing）
+- 智慧物聯網/智慧多媒體物聯網（AIoT(AI+IoT) / MIoT(Multimedia +IoT)）
+- 邊緣與霧運算技術（Edge / Fog computing）
 - ROS（Robot Operating System）智慧型機器人（ROS & NVIDIA Isaac）
 	- 感知系統（Perception System）
 	- 自主導航與行動（Autonomous Navigation & SLAM）
