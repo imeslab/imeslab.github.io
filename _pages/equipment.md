@@ -7,7 +7,12 @@ author_profile: true
 
 ## 🛠️ 開發板設備[Permalink]({{ site.baseurl }}/equipment/#-%E9%96%8B%E7%99%BC%E6%9D%BF%E8%A8%AD%E5%82%99 "Permalink")
 
-- **Kneron KL630 / KL730**
+- **Kneron 系列**
+  - KL630
+    ![KL630]({{ site.baseurl }}/assets/images/KL630.jpg)
+  - KL730
+    ![KL730]({{ site.baseurl }}/assets/images/KL730.jpg)
+
 - **Raspberry Pi 系列**
   - Raspberry Pi 3 與 4
   - Raspberry Pi Zero（共 30 片）
@@ -16,9 +21,10 @@ author_profile: true
   - Jetson Nano（共 2 片）
 
   - **Jetson Orin Nano / Orin Super（共 5 片，可支援 NVIDIA Isaac）**
-    ![Jetson Orin Nano]({{ site.baseurl }}/assets/images/image-20250327114639093.png)
+    ![Jetson Orin Nano]({{ site.baseurl }}/assets/images/orinNANO.jpg)
 
   -  **AIR6N0-C-MB NX （核心為NVIDIA Jetson Orin NX，共 1 片）**
+    ![AIR6N0-C-MB NX]({{ site.baseurl }}/assets/images/AIR6N0.jpg)
 
   - Jetson Orin AGX（共 5 片，可支援 NVIDIA Isaac）
     ![Jetson Orin AGX]({{ site.baseurl }}/assets/images/image-20250327113619620.png)
