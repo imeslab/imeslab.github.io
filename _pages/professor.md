@@ -5,7 +5,10 @@ permalink: /professor/
 author_profile: true
 ---
 
-# 👨‍🏫 李建緯
+
+<img src="{{ site.baseurl }}/assets/images/hard.png" alt="個人照片" style="width:250px; border-radius: 12px;" />
+
+# 李建緯
 
 **🏫 現職**  
 國立雲林科技大學資工系 專任副教授

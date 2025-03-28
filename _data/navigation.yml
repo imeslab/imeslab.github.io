@@ -6,7 +6,7 @@ main:
     url: "/professor/"
   - title: "研究方向"
     url: "/research/"
-  - title: "設備"
+  - title: "設備資源"
     url: /equipment/
   - title: "課程"
     url: /courses/  
