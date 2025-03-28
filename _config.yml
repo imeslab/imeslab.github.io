@@ -23,7 +23,7 @@ subtitle: "Intelligent Multimedia & Embedded Systems Laboratory (IMES Lab)"
 #name: "李建緯 副教授"
 #description: "李建緯 副教授，國立成功大學資訊工程研究所博士，專長於嵌入式系統、智慧物聯網、多媒體網路、人工智慧安全與區塊鏈技術。"
 url                      : "https://imeslab.github.io"
-baseurl                  : "/imslab.github.io"
+baseurl                  : #
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
