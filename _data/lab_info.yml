@@ -6,7 +6,11 @@ info:
   email: "lijw@yuntech.edu.tw"
   office: "產學大樓 AI607"
   office_phone: "4523"
-  lab_location: "EB207"
+  lab_location: "智慧多媒體網路暨嵌入式系統實驗室（EB207）"
+  future_office: "未來科技應用大樓 ST716"
+  future_lab_location: "未來科技應用大樓 ST509"
+  future_lab_effective_date: "2026/08 後"
+  future_phone: "未定"
   lab_phone: "4599"
 
   expertise:

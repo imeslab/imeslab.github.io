@@ -2,6 +2,8 @@
 main:
   - title: "首頁"
     url: "/"
+  - title: "實驗室資訊"
+    url: "/lab/"
   - title: "指導教授"
     url: "/professor/"
   - title: "研究方向"

@@ -105,6 +105,72 @@ classes: wide
     overflow-wrap: anywhere;
   }
 
+  .member-record__actions {
+    margin-top: 0.75rem;
+  }
+
+  .member-record__poster-button,
+  .poster-dialog__close {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2rem;
+    padding: 0.25rem 0.65rem;
+    border: 1px solid rgba(148, 163, 184, 0.38);
+    border-radius: 5px;
+    background: rgba(148, 163, 184, 0.12);
+    color: inherit;
+    font-size: 0.68rem;
+    line-height: 1.2;
+    cursor: pointer;
+  }
+
+  .member-record__poster-button:hover,
+  .poster-dialog__close:hover {
+    background: rgba(148, 163, 184, 0.22);
+  }
+
+  .poster-dialog {
+    width: min(94vw, 1120px);
+    max-height: 92vh;
+    padding: 0;
+    border: 1px solid rgba(148, 163, 184, 0.36);
+    border-radius: 6px;
+    background: #252a34;
+    color: inherit;
+  }
+
+  .poster-dialog::backdrop {
+    background: rgba(0, 0, 0, 0.72);
+  }
+
+  .poster-dialog__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.7rem 0.85rem;
+    border-bottom: 1px solid rgba(148, 163, 184, 0.26);
+  }
+
+  .poster-dialog__title {
+    margin: 0;
+    font-size: 0.8rem;
+    line-height: 1.4;
+  }
+
+  .poster-dialog__body {
+    max-height: calc(92vh - 3.5rem);
+    overflow: auto;
+    padding: 0.75rem;
+  }
+
+  .poster-dialog__image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
   @media (max-width: 720px) {
     .members-summary {
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -145,12 +211,14 @@ classes: wide
   {% for member in site.data.members.graduates %}
     {% assign keywords = member.keywords | split: "、" %}
     {% assign topic_text = member.topic | strip %}
+    {% assign note_text = member.note | strip %}
     <article class="member-record">
       <div class="member-record__meta">
         <span class="member-record__year">{{ member.year }} 年</span>
         <span class="member-record__person">{{ member.name }}</span>
-        <span class="member-record__muted">學號：{{ member.student_id }}</span>
-        <span class="member-record__muted">{{ member.topic_type }}</span>
+        {% if note_text != "" %}
+          <span class="member-record__muted">{{ note_text }}</span>
+        {% endif %}
       </div>
       <div class="member-record__body">
         {% if topic_text != "" %}
@@ -190,7 +258,67 @@ classes: wide
             <span class="member-record__keyword">{{ keyword | strip }}</span>
           {% endfor %}
         </div>
+        {% if project.poster %}
+          <div class="member-record__actions">
+            <button
+              class="member-record__poster-button"
+              type="button"
+              data-poster-src="{{ project.poster | relative_url }}"
+              data-poster-title="{{ project.topic | escape }}"
+            >查看海報</button>
+          </div>
+        {% endif %}
       </div>
     </article>
   {% endfor %}
 </div>
+
+<dialog class="poster-dialog" id="poster-dialog" aria-labelledby="poster-dialog-title">
+  <div class="poster-dialog__header">
+    <h2 class="poster-dialog__title" id="poster-dialog-title">專題海報</h2>
+    <button class="poster-dialog__close" type="button" data-poster-close>關閉</button>
+  </div>
+  <div class="poster-dialog__body">
+    <img class="poster-dialog__image" id="poster-dialog-image" alt="" />
+  </div>
+</dialog>
+
+<script>
+  (function () {
+    var dialog = document.getElementById("poster-dialog");
+    var image = document.getElementById("poster-dialog-image");
+    var title = document.getElementById("poster-dialog-title");
+    var buttons = document.querySelectorAll("[data-poster-src]");
+
+    buttons.forEach(function (button) {
+      button.addEventListener("click", function () {
+        var src = button.getAttribute("data-poster-src");
+        var posterTitle = button.getAttribute("data-poster-title") || "專題海報";
+
+        if (!dialog || typeof dialog.showModal !== "function") {
+          window.open(src, "_blank", "noopener");
+          return;
+        }
+
+        title.textContent = posterTitle;
+        image.src = src;
+        image.alt = posterTitle + "海報";
+        dialog.showModal();
+      });
+    });
+
+    document.querySelectorAll("[data-poster-close]").forEach(function (button) {
+      button.addEventListener("click", function () {
+        dialog.close();
+      });
+    });
+
+    if (dialog) {
+      dialog.addEventListener("click", function (event) {
+        if (event.target === dialog) {
+          dialog.close();
+        }
+      });
+    }
+  })();
+</script>

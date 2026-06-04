@@ -19,4 +19,5 @@ author_profile: true
 
 **📬 聯絡方式**  
 - ✉️ Email：[lijw@yuntech.edu.tw](mailto:lijw@yuntech.edu.tw)
-- 📍 研究室：<a href="https://www.google.com/maps?q=640雲林縣斗六市大學路三段123號產學研大樓" target="_blank">產學大樓 AI607</a>
+- 📍 目前研究室：<a href="https://www.google.com/maps?q=640雲林縣斗六市大學路三段123號產學研大樓" target="_blank">產學大樓 AI607</a>（分機：4523）
+- 📍 2026/08 後研究室：未來科技應用大樓 ST716（分機：未定）

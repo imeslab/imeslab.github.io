@@ -61,7 +61,9 @@ author_profile: true
     -   Dell PowerEdge R515（共 5 台）
 -   **AI 應用伺服器**
     -   Dell PowerEdge R640（Intel Xeon Gold 5218 & 256GB RAM & Nvidia Tesla T4 16GB ×2）
--   **AI 模型訓練伺服器** （Intel Core i9 & NVIDIA GeForce RTX 4090 ×2）
+-   **AI 模型訓練伺服器**
+    -   Intel Core i9 & NVIDIA GeForce RTX 4090 ×2
+    -   Intel Core i9 & NVIDIA GeForce RTX 5090 ×2
 
 ---
 
