@@ -1,11 +1,13 @@
 ---
-title: "智慧多媒體網路暨嵌入式系統實驗室"
+title: "智慧感知與系統整合實驗室"
 layout: single
 permalink: /lab/
 author_profile: true
 ---
 
 ## 🏫 實驗室簡介
+<p><strong>實驗室名稱：</strong> {{ site.data.lab_info.info.lab_name }}</p>
+<p><strong>英文名稱：</strong> {{ site.data.lab_info.info.lab_name_en }}</p>
 <p><strong>指導教授：</strong> {{ site.data.lab_info.info.professor }}</p>
 <p><strong>學校：</strong> {{ site.data.lab_info.info.university }}</p>
 <p><strong>聯絡方式：</strong> Email: <a href="mailto:{{ site.data.lab_info.info.email }}">{{ site.data.lab_info.info.email }}</a></p>
