@@ -16,21 +16,3 @@ author_profile: true
 <p><strong>{{ site.data.lab_info.info.future_lab_effective_date }}實驗室新地點：</strong> {{ site.data.lab_info.info.future_lab_location }}（分機：{{ site.data.lab_info.info.future_phone }}）</p>
 
 <hr>
-
-## 🎯 專長領域
-<ul>
-{% for skill in site.data.lab_info.info.expertise %}
-  <li>{{ skill }}</li>
-{% endfor %}
-</ul>
-
-<hr>
-
-## 🔬 研究方向
-<ul>
-{% for topic in site.data.lab_info.info.research_directions %}
-  <li>{{ topic }}</li>
-{% endfor %}
-</ul>
-
-<hr>
